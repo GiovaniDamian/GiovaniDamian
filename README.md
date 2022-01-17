@@ -1,4 +1,4 @@
-### Hi, My name is Giovani and that is my repository:
+### Hi, My name is Giovani and this is my repository:
 
 - 🔭 I'm currently working as volunteering
 - 📚 I'm currently study to be web programer
