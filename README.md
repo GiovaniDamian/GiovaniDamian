@@ -2,7 +2,6 @@
 
 - 🔭 I'm currently working as volunteering
 - 📚 I'm currently study to be web programer
-- 🌱 I'm currently learning to be Vue / Angular
 - 😄 Pronouns: he / him
 
   <div align="center">
