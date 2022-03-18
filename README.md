@@ -1,6 +1,6 @@
 ### Hi, My name is Giovani and this is my repository:
 
-- 📍 I'm living in Balneário Camburiú
+- 📍 I'm living in Balneário Camburiú/Sc - Brazil
 - 🔭 I have experience in management and business
 - 📚 I'm currently study to be web programer
 - 😄 Pronouns: he / him
