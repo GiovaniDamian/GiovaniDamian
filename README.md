@@ -1,6 +1,6 @@
 ### Hi, My name is Giovani and this is my repository:
 
-- 📍 I'm living in Balneário Camburiú/Sc - Brazil
+- 📍 Now I'm living in Brazil
 - 💼 I'm in a trainee full stack development
 - 🔭 I have experience in management and software development
 - 📚 I'm currently study .Net and C# 
