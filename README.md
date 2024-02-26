@@ -1,9 +1,8 @@
 ### Hi, My name is Giovani and this is my repository:
 
 - 📍 Now I'm living in Brazil
-- 💼 I'm in a trainee full stack development
 - 🔭 I have experience in management and software development
-- 📚 I'm currently study .Net and C# 
+- 📚 I'm currently study JavaScript and Azure 
 - 😄 Pronouns: he / him
 
   <div align="center">
