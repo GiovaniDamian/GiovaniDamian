@@ -2,7 +2,7 @@
 
 - 📍 Now I'm living in Brazil
 - 🔭 I have experience in management and software development
-- 📚 I'm currently study JavaScript and Azure 
+- 📚 I'm currently study React.js, Next.js and Azure 
 - 😄 Pronouns: he / him
 
   <div align="center">
