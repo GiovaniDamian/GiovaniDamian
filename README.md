@@ -30,3 +30,8 @@
  	  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMhnsTTpNgtbVPxTttKqrKlsNgqjZmGkSTcNLQtztfXQwDbFtCZVGblLFrZSkCkzWztFTg" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/giovanidamian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+<div class="CV">
+  Look my online CV in:
+<a href="https://giovanidamian.github.io/Resume/" target="_blank">(https://giovanidamian.github.io/Resume/)</a>
+</div>
