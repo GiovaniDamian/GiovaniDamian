@@ -2,7 +2,7 @@
 
 - 📍 Now I'm living in Brazil
 - 🔭 I have experience in management and software development
-- 📚 I'm currently study React.js, Next.js, TypeScript and Three.js
+- 📚 I'm currently study React.js and TypeScript
 - 😄 Pronouns: he / him
 
   <div align="center">
