@@ -1,8 +1,8 @@
 ### Hi, My name is Giovani and this is my repository:
 
-- 📍 Now I'm living in Brazil
+- 📍 Now I'm Nomad
 - 🔭 I have experience in management and software development
-- 📚 I'm currently study React.js and TypeScript
+- 📚 Always studying React.js, C# and TypeScript
 - 😄 Pronouns: he / him
 
   <div align="center">
