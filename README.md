@@ -1,10 +1,5 @@
 ### Hi, My name is Giovani and this is my repository:
 
-- 📍 Now I'm Nomad
-- 🔭 I have experience in management and software development
-- 📚 Always studying React.js, C# and TypeScript
-- 😄 Pronouns: he / him
-
   <div align="center">
     <a href="https://github.com/GiovaniDamian">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovaniDamian&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=10px"/>
